@@ -1,0 +1,1 @@
+[![GoDoc](https://godoc.org/github.com/empetrone/go-unshortener?status.svg)](https://godoc.org/github.com/empetrone/go-unshortener)
