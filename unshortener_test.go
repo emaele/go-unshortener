@@ -3,7 +3,7 @@ package unshortener_test
 import (
 	"testing"
 
-	"gitlab.com/emaele/unshortener"
+	"gitlab.com/emaele/go-unshortener"
 )
 
 func TestUnshortURL(t *testing.T) {
